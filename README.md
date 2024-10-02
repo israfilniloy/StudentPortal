@@ -36,7 +36,7 @@ This project is a web-based **Student Portal System** developed using **ASP.NET 
 1. **Clone the Repository**  
    Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-repository/student-portal-system.git
+    [   git clone https://github.com/your-repository/student-portal-system.git](https://github.com/israfilniloy/StudentPortal.git)
    ```
 
 2. **Set Up the Database**  
