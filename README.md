@@ -76,3 +76,4 @@ This project is a web-based **Student Portal System** developed using **ASP.NET 
 ---
 
 # Screenshot:
+![image](https://github.com/user-attachments/assets/c4463802-788c-44dd-b4f4-75a27c837df7)
